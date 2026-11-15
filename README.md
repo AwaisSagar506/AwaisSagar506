@@ -1,15 +1,18 @@
 # Muhammad Awais Sagar
 
-### Full-stack web developer · React & Laravel
+### Full-stack web developer | React, Node.js, Express & Laravel
 
-I build web interfaces with React and develop APIs with PHP and Laravel. My work includes a learning management system, database-backed student records, and smaller interfaces exploring API integration and React state.
+I build web interfaces with React and develop REST APIs with Node.js, Express, PHP and Laravel. My work includes a learning management system, database-backed student records, and smaller interfaces exploring API integration and React state.
 
 Based in Lahore, Pakistan.
+
+**Email:** [awaissagar007@gmail.com](mailto:awaissagar007@gmail.com)  
+**LinkedIn:** [Muhammad Awais Sagar](https://www.linkedin.com/in/muhammad-awais-sagar-220149308/)
 
 ## Technical toolkit
 
 - **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** PHP, Laravel, REST APIs, Laravel Sanctum, Eloquent ORM
+- **Backend:** Node.js, Express, PHP, Laravel, REST API development, Laravel Sanctum, Eloquent ORM
 - **Data:** SQL, MySQL, SQLite, database migrations
 - **Tools:** Git, GitHub, Vite, npm, Composer
 
@@ -25,10 +28,17 @@ Based in Lahore, Pakistan.
 
 These are personal learning and portfolio projects. The smaller UI exercises demonstrate specific frontend techniques; they are not commercial banking, transport or food-delivery services.
 
+## Certification
+
+**Certificate in IT (Web Development)** - Corvit Networks (Pvt) Ltd, Lahore, under NAVTTC / PMYSDP Batch III.  
+**Grade:** A+ | **Training:** 12 February - 20 May 2026 | **Issued:** 23 June 2026
+
 ## More of my work
 
 My repositories also include PHP exercises, SQL assignments, JavaScript DOM practice, product grids and dashboard layouts. I use these to strengthen the fundamentals behind larger applications.
 
 ## Contact
 
-[Email me](mailto:awaissagar007@gmail.com) · [Browse my repositories](https://github.com/AwaisSagar506?tab=repositories)
+- **Email:** [awaissagar007@gmail.com](mailto:awaissagar007@gmail.com)
+- **LinkedIn:** [Muhammad Awais Sagar](https://www.linkedin.com/in/muhammad-awais-sagar-220149308/)
+- **GitHub:** [AwaisSagar506](https://github.com/AwaisSagar506)
