@@ -1,44 +1,59 @@
 # Muhammad Awais Sagar
 
-### Full-stack web developer | React, Node.js, Express & Laravel
+### Full-stack Web Developer · React, Node.js, Express & Laravel
 
-I build web interfaces with React and develop REST APIs with Node.js, Express, PHP and Laravel. My work includes a learning management system, database-backed student records, and smaller interfaces exploring API integration and React state.
+I build web interfaces and REST APIs, connecting React frontends with Node.js, Express, PHP, Laravel, and SQL databases.
 
-Based in Lahore, Pakistan.
+[LinkedIn](https://www.linkedin.com/in/muhammad-awais-sagar-220149308/) · [Email](mailto:awaissagar007@gmail.com) · [Portfolio source](https://github.com/AwaisSagar506/update-portfolio)
 
-**Email:** [awaissagar007@gmail.com](mailto:awaissagar007@gmail.com)  
-**LinkedIn:** [Muhammad Awais Sagar](https://www.linkedin.com/in/muhammad-awais-sagar-220149308/)
+## About me
 
-## Technical toolkit
+I'm a developer based in Lahore, Pakistan, with hands-on experience building database-backed web applications. My projects cover authentication, role-based dashboards, course workflows, API integration, and relational data models.
 
-- **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, PHP, Laravel, REST API development, Laravel Sanctum, Eloquent ORM
-- **Data:** SQL, MySQL, SQLite, database migrations
-- **Tools:** Git, GitHub, Vite, npm, Composer
+My main portfolio project is a **Learning Management System** with separate admin, instructor, and student experiences. Alongside it, I build smaller applications to practise React state, Laravel MVC, and working with external APIs.
 
-## Selected projects
+I completed **IT (Web Development)** training at **Corvit Networks, Lahore**, under **NAVTTC / PMYSDP Batch III**, earning an **A+**.
 
-| Project | What I implemented | Source |
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, React, React Router, HTML, CSS, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Express, PHP, Laravel, REST APIs, Laravel Sanctum, Eloquent ORM |
+| Databases | SQL, MySQL, SQLite, relational models, migrations |
+| Development tools | Git, GitHub, Vite, npm, Composer, Axios, Fetch API |
+
+## Featured projects
+
+### Learning Management System
+
+A React frontend connected to a Laravel API, with:
+- Separate admin, instructor, and student dashboards
+- Courses, lessons, enrollments, and progress tracking
+- Token-based authentication with Laravel Sanctum
+- Quiz submission, answer scoring, and per-user result history
+
+**Stack:** React, Laravel, Sanctum, Tailwind CSS, SQL  
+[Frontend repository](https://github.com/AwaisSagar506/Learning-management-system) · [Backend repository](https://github.com/AwaisSagar506/Learning-management-system-backend)
+
+### More projects
+
+| Project | Focus | Code |
 | --- | --- | --- |
-| **Learning Management System** | React dashboards for three user roles; Laravel APIs for courses, lessons, enrollment, progress and scored quizzes | [Frontend](https://github.com/AwaisSagar506/Learning-management-system) · [API](https://github.com/AwaisSagar506/Learning-management-system-backend) |
-| **Student Records** | Laravel MVC project to create, list and view records using Blade and Eloquent | [Repository](https://github.com/AwaisSagar506/Larvel-assignment-1) |
-| **PKR Exchange Rate Dashboard** | React API integration showing USD, EUR and GBP exchange rates with a loading state | [Repository](https://github.com/AwaisSagar506/React-assignment-5) |
-| **Bus Booking UI** | Controlled inputs and a live ticket preview built with React and Bootstrap | [Repository](https://github.com/AwaisSagar506/React-assignment-4) |
-| **Developer Portfolio** | React sections for introduction, skills, projects and contact | [Repository](https://github.com/AwaisSagar506/update-portfolio) |
+| **Student Records** | Creating, listing, and viewing records with Laravel, Blade, and Eloquent | [Repository](https://github.com/AwaisSagar506/Larvel-assignment-1) |
+| **PKR Exchange Rate Dashboard** | React API integration, loading states, and exchange-rate display | [Repository](https://github.com/AwaisSagar506/React-assignment-5) |
+| **Bus Booking UI** | Controlled React inputs and a live ticket preview | [Repository](https://github.com/AwaisSagar506/React-assignment-4) |
+| **Developer Portfolio** | Reusable React sections for skills, projects, and contact | [Repository](https://github.com/AwaisSagar506/update-portfolio) |
 
-These are personal learning and portfolio projects. The smaller UI exercises demonstrate specific frontend techniques; they are not commercial banking, transport or food-delivery services.
+These are personal portfolio and learning projects. My repositories also include PHP, SQL, JavaScript DOM, and frontend layout exercises.
 
 ## Certification
 
-**Certificate in IT (Web Development)** - Corvit Networks (Pvt) Ltd, Lahore, under NAVTTC / PMYSDP Batch III.  
-**Grade:** A+ | **Training:** 12 February - 20 May 2026 | **Issued:** 23 June 2026
+**Certificate in IT (Web Development)**  
+Corvit Networks (Pvt) Ltd, Lahore · NAVTTC / PMYSDP Batch III  
+**Grade:** A+ · **Training:** 12 February – 20 May 2026 · **Issued:** 23 June 2026
 
-## More of my work
+## Connect
 
-My repositories also include PHP exercises, SQL assignments, JavaScript DOM practice, product grids and dashboard layouts. I use these to strengthen the fundamentals behind larger applications.
-
-## Contact
-
-- **Email:** [awaissagar007@gmail.com](mailto:awaissagar007@gmail.com)
 - **LinkedIn:** [Muhammad Awais Sagar](https://www.linkedin.com/in/muhammad-awais-sagar-220149308/)
-- **GitHub:** [AwaisSagar506](https://github.com/AwaisSagar506)
+- **Email:** [awaissagar007@gmail.com](mailto:awaissagar007@gmail.com)
